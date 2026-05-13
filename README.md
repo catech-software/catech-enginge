@@ -1,5 +1,8 @@
 # CATech Engine
 
+> [!IMPORTANT]
+> This repo is kept only as an archive of a capstone project. I am now using C++ and Vulkan: <https://github.com/catech-software/cat-engine>
+
 Water bottle model created by Khronos: <https://github.com/KhronosGroup/glTF-Sample-Assets>
 
 ## Running the demo
